@@ -19,6 +19,7 @@ public class Student {
             this.studentId = studentId;
             courses = new ArrayList<String>(); //Initialization of courses!!
         }
+
     }
 
     @Override

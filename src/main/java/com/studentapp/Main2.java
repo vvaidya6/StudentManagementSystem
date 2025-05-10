@@ -35,8 +35,6 @@ public class Main2 {
         System.out.println("Result: "+result);
         sortByName();
 
-
-
     }
 
     public static Student findStudentById(String studentId) {

@@ -42,7 +42,6 @@ public class Main4 {
                     System.out.println("Invalid option selected!...Enter between 1 to 5 ");
             }
 
-
         }
     }
 

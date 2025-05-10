@@ -6,7 +6,6 @@ public class Main {
         System.out.println("********** Student Management System ******************");
         System.out.println(" ***************** Welcome *****************");
 
-
         Student s1 = new Student("Raj",22, "S-101");
         s1.enrollCourse("Java");
         s1.printStudentInfo();
